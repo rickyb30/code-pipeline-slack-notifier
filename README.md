@@ -1,8 +1,10 @@
 # Code Pipeline Slack Notifier
-
+```bash
 git clone code-pipeline-slack-notifier
 cd code-pipeline-slack-notifier
 git checkout 057c6af02cd0464092c9f9ddebd7bb968f4e7ae9
+```
+
 Edit sar.yaml and update node version to node12.x
 
 $ npm install
